@@ -101,8 +101,7 @@ Contributions are welcome! To contribute:
 
 ## License
 
-This project is open source — feel free to adapt and extend.  
-*(Add your chosen license here, e.g., MIT)*
+This project is open source; feel free to adapt and extend.  
 
 ---
 
@@ -110,5 +109,7 @@ This project is open source — feel free to adapt and extend.
 
 Developed by **Muhammad Taha**  
 GitHub: https://github.com/MuhammadTaha-GH  
+LinkedIn: www.linkedin.com/in/muhammad-taha-da
+Email: taha.bhurani@gmail.com
 
 If this project helped you, please give it a **star!**
